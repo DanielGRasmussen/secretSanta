@@ -4,7 +4,7 @@ I wrote a terminal based Secret Santa picker. You can give it information like f
 
 I wrote this to learn the Kotlin language and figure out more things I can do to expand my skills.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/l_1WwIwmCso)
 
 # Development Environment
 
