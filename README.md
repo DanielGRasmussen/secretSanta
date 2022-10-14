@@ -1,30 +1,21 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description the software that you wrote to demonstrate the Kotlin language.}
 I wrote a terminal based Secret Santa picker. You can give it information like family member's names and it will save them in a file that you can later have it randomly pick from. It will ask if close family members and the previous selection should be possibly picked.
-{Describe your purpose for writing this software.}
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
+I wrote this to learn the Kotlin language and figure out more things I can do to expand my skills.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+I used Intellij IDEA with Kotlin and the java.io.FileWriter library.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Kotlin Docs](https://kotlinlang.org/docs/home.html)
+* [Stack Overflow](https://stackoverflow.com)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* I need to remove the Utils.toMap function and replace it with how you are supposed to do it.
+* I should swap the .txt file out for something like a json file with gson.
