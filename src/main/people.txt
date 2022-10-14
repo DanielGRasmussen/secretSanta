@@ -1,0 +1,4 @@
+name=samantha,relationship=close family,previousYear=false
+name=rob,relationship=extended family,previousYear=false
+name=rob,relationship=extended family,previousYear=false
+name=justin,relationship=close family,previousYear=true
